@@ -1,0 +1,20 @@
+{
+  "name": "app-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "(cd server && npm start) & (cd app-ui && npm start)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceTimmi/app-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpaceTimmi/app-ui/issues"
+  },
+  "homepage": "https://github.com/SpaceTimmi/app-ui#readme"
+}
